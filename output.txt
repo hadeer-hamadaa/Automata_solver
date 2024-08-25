@@ -1,0 +1,70 @@
+1
+True
+False
+False
+True
+End of problem 1
+
+2
+True
+True
+False
+False
+End of problem 2
+
+3
+True
+True
+False
+True
+End of problem 3
+
+4
+True
+True
+True
+False
+End of problem 4
+
+5
+True
+True
+True
+False
+End of problem 5
+
+6
+True
+True
+True
+False
+End of problem 6
+
+7
+True
+True
+True
+False
+End of problem 7
+
+8
+True
+True
+True
+False
+End of problem 8
+
+9
+True
+True
+True
+False
+End of problem 9
+
+10
+True
+True
+True
+False
+End of problem 10
+
